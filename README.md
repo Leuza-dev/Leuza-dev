@@ -8,6 +8,8 @@
 [![Linkedin](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/edileuza.santosdelima)
 ![Leuza-Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Leuza-Dev&show_icons=true&theme=merko)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leuza-dev)](https://github.com/Leuza-dev/github-readme-stats)
+
 ## Tecnologias que utilizo
 
 <div style="display: inline-block"> <br>
